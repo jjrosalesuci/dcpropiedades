@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c961e36916d08bbec5302e467b7654f",
+    "revision": "c85fe21ef75c1581499ec6f3d5556160",
     "url": "/jjrosalesuci.github.io/dcpropiedades/index.html"
   },
   {
-    "revision": "11bdb099e79c1d42ed20",
+    "revision": "f97b242bad3c47d409dd",
     "url": "/jjrosalesuci.github.io/dcpropiedades/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jjrosalesuci.github.io/dcpropiedades/static/js/2.4c68be39.chunk.js"
   },
   {
-    "revision": "11bdb099e79c1d42ed20",
-    "url": "/jjrosalesuci.github.io/dcpropiedades/static/js/main.bf754028.chunk.js"
+    "revision": "f97b242bad3c47d409dd",
+    "url": "/jjrosalesuci.github.io/dcpropiedades/static/js/main.94bb03f4.chunk.js"
   },
   {
     "revision": "65dfb9281ace7921eb8d",
